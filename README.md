@@ -24,13 +24,25 @@
 </p>
 
 ---
+## 💼 Internship Experience
 
+### 🏢 Sumago Infotech (6 Months)
+- 💻 Worked on MERN stack development  
+- ⚙️ Built scalable web applications  
+- 🚀 Gained hands-on experience in full stack development  
+
+### 🏢 Tallent Battle (1 Month)
+- ☕ Java Development Internship  
+- 🧠 Focused on Object-Oriented Programming (OOP)  
+- 📊 Practiced Data Structures & Algorithms (DSA)
+  
+---
 ## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanskruti-bhalerao&show_icons=true&theme=default" />
 </p>
-
+---
 ## 🎯 Focus
 - Data Structures & Algorithms  
 - Full Stack Development (MERN)  
