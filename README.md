@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sanskruti%20Bhalerao&fontSize=35&fontAlignY=35)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps+🚀;MERN+Stack+Developer+💻;DSA+Explorer+🧠;OOP+Driven+Thinker+⚙️;Consistency+%3E+Motivation+🔥" />
+</p>
 
 # 👋 Hi, I'm Sanskruti Bhalerao
 
