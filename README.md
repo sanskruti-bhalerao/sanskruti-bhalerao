@@ -25,18 +25,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskruti-bhalerao&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanskruti-bhalerao&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" />
+  
+  <img height="165" src="https://streak-stats.demolab.com?user=sanskruti-bhalerao&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanskruti-bhalerao&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskruti-bhalerao&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskruti-bhalerao&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 ---
