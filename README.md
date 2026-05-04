@@ -28,15 +28,15 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskruti-bhalerao&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanskruti-bhalerao&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanskruti-bhalerao&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=sanskruti-bhalerao&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskruti-bhalerao&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskruti-bhalerao&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ## 🎯 Focus
