@@ -36,11 +36,11 @@
 - 🧠 Focused on Object-Oriented Programming (OOP)  
 - 📊 Practiced Data Structures & Algorithms (DSA)
   
----
+
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskruti-bhalerao&show_icons=true&theme=default" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanskruti-bhalerao&show_icons=true&theme=default" />
 </p>
 ---
 ## 🎯 Focus
